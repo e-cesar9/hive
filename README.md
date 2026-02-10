@@ -36,6 +36,14 @@
   <img src="https://img.shields.io/badge/Google_Gemini-supported-4285F4?style=flat-square&logo=google" alt="Gemini" />
 </p>
 
+## What is Hive?
+
+**Hive is the goal-driven execution engine for self-evolving AI agent swarms.**
+
+Describe your objective in plain English via Claude Code or Cursor. The coding agent generates a graph of worker agents, deploys them, and when failures occur, automatically evolves the system to fix itself. Move from brittle code to validated outcomes—AI infrastructure that adapts without manual intervention.
+
+Built for production workloads, not proof-of-concepts.
+
 ## Overview
 
 Build autonomous, reliable, self-improving AI agents without hardcoding workflows. Define your goal through conversation with a coding agent, and the framework generates a node graph with dynamically created connection code. When things break, the framework captures failure data, evolves the agent through the coding agent, and redeploys. Built-in human-in-the-loop nodes, credential management, and real-time monitoring give you control without sacrificing adaptability.
